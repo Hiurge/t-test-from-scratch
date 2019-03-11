@@ -1,8 +1,9 @@
 ### T-test from scratch
 
-Just a numpy t-test implementation with SPSS-like result table. Great for understanding underlying math.
+Just a numpy t-test implementation with SPSS-like result table.
 
-For other purposes, give yourself a break and use the scipy:
+
+Great for understanding underlying math. For other purposes, give yourself a break and use the scipy:
 
 ```
 from scipy import stats
